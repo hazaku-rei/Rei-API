@@ -13,7 +13,7 @@
 <details>
 <summary>Last Updates</summary>
   
-> 08 - 13 - 2021 ||  V 1.4
+> 08 - 21 - 2021 ||  V 1.6
 
 </details>
 
@@ -45,6 +45,8 @@
 | YouTube Play MP3 & MP4    |  ✔️      |
 | Rexdl Download            |  ✔️      |
 | Mediafire                 |  ✔️      |
+| Facebook                  |  ✔️      |
+| Joox                      |  ✔️      |
 
  ## Anime API
 
@@ -115,5 +117,15 @@
 | Password Generator        |    ✔️    |
 | Whois                     |    ✔️    |
 | Simi                      |    ✔️    |
+ 
+ ## Wallpaper API
 
+| Menu                      | Status    |
+| ------------------------- |  -------- |
+| Alphacoders               |    ✔️    |
+| Wallpaper Cave            |    ✔️    |
+| Wallpaper 4k              |    ✔️    |
+| WallHeaven                |    ✔️    |
+
+ 
 # Gabut Bang Hehe
