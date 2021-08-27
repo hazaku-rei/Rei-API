@@ -13,7 +13,7 @@
 <details>
 <summary>Last Updates</summary>
   
-> 08 - 21 - 2021 ||  V 1.6
+> 08 - 27 - 2021 ||  V 1.7
 
 </details>
 
@@ -37,7 +37,8 @@
 | Menu                      |  Status   |
 | ------------------------- |  -------- |
 | Instagram                 |  ✔️      |
-| TikTok                    |  Error   |
+| Instagram TV              |  ✔️      |
+| TikTok                    |  ✔️      |
 | TikTok V2                 |  ✔️      |
 | YouTube MP4               |  ✔️      |
 | YouTube MP3               |  ✔️      |
@@ -47,6 +48,7 @@
 | Mediafire                 |  ✔️      |
 | Facebook                  |  ✔️      |
 | Joox                      |  ✔️      |
+| TikTok Musik              |    ✔️    |
 
  ## Anime API
 
@@ -76,6 +78,7 @@
 | GitHub Stalk Simple       |    ✔️    |
 | GitHub Followers Check    |    ✔️    |
 | Group WA Search           |    ✔️    |
+| Genshin Impact Char       |    ✔️    |
  
 ## Film Apik API
 
