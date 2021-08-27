@@ -68,7 +68,7 @@
 | Menu                      |  Status   |
 | ------------------------- |  -------- |
 | Instagram Stalk           |    ✔️    |
-| Brainly                   |    ✔️    |
+| Brainly                   |   Error  |
 | Rexdl Search              |    ✔️    |
 | Youtube Channel Search    |    ✔️    |
 | Google Search             |    ✔️    |
