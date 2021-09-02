@@ -2,7 +2,7 @@
 
 ## Live API
 
-- https://rei-api.herokuapp.com
+- https://api.reiyuura.me
 - 100 % Free API
 
 ## Credits
