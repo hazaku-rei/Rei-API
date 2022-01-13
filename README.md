@@ -13,7 +13,7 @@
 <details>
 <summary>Last Updates</summary>
   
-> 08 - 27 - 2021 ||  V 1.7
+> 13 - 01 - 2022 || LTS
 
 </details>
 
@@ -98,18 +98,6 @@
 | Jodoh / Pasangan          |    ✔️    |
 | Nomor Hoki                |    ✔️    |
 
-## Photooxy API
-
-| Menu                      |  Status   |
-| ------------------------- |  -------- |
-| Smoke                     |    ✔️    |
-| Romantic                  |    ✔️    |
-| Shadow                    |    ✔️    |
-| Naruto                    |    ✔️    |
-| Under Grass               |    ✔️    |
-| Love Message              |    ✔️    |
-| TikTok Effect             |    ✔️    |
-| Neon                      |    ✔️    |
 
 ## Misc API
 
